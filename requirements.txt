@@ -4,6 +4,3 @@ streamlit
 pandas
 plotly
 pytz
-sqlite3
-datetime
-hashlib
