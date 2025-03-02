@@ -1,6 +1,6 @@
-openpyxl
 xlsxwriter
 streamlit
 pandas
 plotly
 pytz
+openpyxl
